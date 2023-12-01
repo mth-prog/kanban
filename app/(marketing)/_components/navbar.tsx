@@ -16,7 +16,7 @@ export const Navbar = () => {
           </Button>
           <Button size="sm" asChild>
             <Link href="/sign-up">
-            Obtenha a Taski Tracker gratuitamente
+            Obtenher gratuitamente
             </Link>
           </Button>
         </div>

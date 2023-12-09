@@ -1,4 +1,4 @@
-<h1>Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL</h1>
+<h1>Task Tracker</h1>
 
 
 

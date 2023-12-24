@@ -1,6 +1,13 @@
-<h1>Task Tracker Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind e MySQL</h1>
+<h1>Task Tracker </h1>
 
-
+Trabalho da materia de laboratorio de engenharia de software utilizando as tecnologias 
+  - Next.js 14
+  - Server Actions
+  - React
+  - Prisma
+  - Stripe
+  - Tailwind
+  - MySQL
 
 <h2>Características principais:</h2>
 
@@ -28,7 +35,7 @@
 <h2>Clone do repositorio</h2>
 
 ```
-git clone https://github.com/gabrielalmeidasoares/kanban.git
+git clone https://github.com/mth-prog/kanban.git
 ```
 
 <h2>Instalar os packages</h2>

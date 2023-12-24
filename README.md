@@ -9,7 +9,13 @@ Trabalho da materia de laboratorio de engenharia de software utilizando as tecno
   - Tailwind
   - MySQL
 
+<h2>Video Apresentação</h2>
+
+https://github.com/mth-prog/kanban/assets/53189625/821ef2b2-7606-49b8-8fc8-e10589732d51
+
+
 <h2>Características principais:</h2>
+
 
 - Autenticação
 - Organizações/espaços de trabalho

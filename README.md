@@ -1,6 +1,6 @@
 <h1>Task Tracker </h1>
 
-Trabalho da materia de laboratorio de engenharia de software utilizando as tecnologias 
+Trabalho da materia de laboratorio de engenharia de software utilizando as tecnologias:
   - Next.js 14
   - Server Actions
   - React
@@ -92,3 +92,6 @@ Executando comandos com npm`npm run [command]`
 |comando|descrição|
 |---|---|
 |  `dev` | Inicia uma instância de desenvolvimento do aplicativo  |
+
+*atualizações necessarias para utilização do projeto*
+*A
